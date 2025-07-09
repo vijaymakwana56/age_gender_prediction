@@ -15,7 +15,7 @@ This is a simple Streamlit web app that predicts **age and gender** from an uplo
 
 ##  Demo
 
-![screenshot](screenshot.png) <!-- Optional if you add a screenshot -->
+https://agegenderprediction-tpnc7ahqkahkrcqet6hjml.streamlit.app/
 
 ---
 
