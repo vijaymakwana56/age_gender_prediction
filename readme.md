@@ -21,12 +21,12 @@ This is a simple Streamlit web app that predicts **age and gender** from an uplo
 
 ##  Project Structure
 
-age_gender_prediction/
+```age_gender_prediction/
 │
 ├── app.py # Streamlit app
 ├── my_model.h5 # Pre-trained Keras model
 ├── requirements.txt # Dependencies
 ├── README.md # This file
 ├── .gitignore
-└── lib/, Scripts/, Include/ # Virtual environment 
+└── lib/, Scripts/, Include/ # Virtual environment```
 
